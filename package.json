@@ -1,0 +1,11 @@
+{
+  "name": "rock-blast-fireball",
+  "version": "1.0.0",
+  "description": "Rock Blast - Fire Ball arcade game",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["game", "arcade", "html5"],
+  "author": "vijay sekhar",
+  "license": "MIT"
+}
